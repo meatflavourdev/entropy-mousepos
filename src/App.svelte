@@ -16,6 +16,7 @@
   const yport = process.env.YPORT || 5001;
 
   const wsUrl = `ws://${yhost}:${yport}`;
+  console.log(`Websocket URL: ${wsUrl}`);
   // Connect our Y.Doc to the sync server. Note that you could also use p2p
   // via webrtc (due to Yjs' CRDT convergence algorithm, no server necessary).
   new WebsocketProvider(wsUrl, 'example', ydoc);
