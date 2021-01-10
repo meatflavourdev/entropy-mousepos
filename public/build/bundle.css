@@ -1,0 +1,13 @@
+spacer.svelte-1rhqsyx{width:80px}buttons.svelte-1rhqsyx{display:flex;justify-content:space-around;width:100%}
+page.svelte-pkg7ft{display:block;margin:0;height:100%}
+button.svelte-8omtpf{font-size:70%;padding:8px 16px;border:1px solid var(--medium);border-radius:5px;background-color:white;margin:8px 4px}button.svelte-8omtpf:active{background-color:var(--medium);border:1px solid var(--dark)}
+item.svelte-11lukjl.svelte-11lukjl{position:absolute;font-size:14px;height:1em;width:1em;border-radius:100%;background-color:red;padding-left:1em}item.svelte-11lukjl span.svelte-11lukjl{font-size:1.5em;font-weight:bold}
+heading.svelte-1ny2obi{display:block;background-color:var(--electric);padding:16px;border-radius:5px;text-align:center;background-size:400px 186px;background-size:275px 64px;background-repeat:no-repeat;background-position:center 34px;color:white}h1.svelte-1ny2obi{}subtitle.svelte-1ny2obi{display:block;text-align:center;font-size:var(--font-regular);color:var(--dark);margin-bottom:24px;color:var(--irish)}
+button.svelte-1m7ivg9.svelte-1m7ivg9{display:flex;flex-direction:column;align-items:center;padding:8px 16px;border:1px solid var(--medium);border-radius:5px;background-color:white;min-width:64px;margin:8px}.disabled.svelte-1m7ivg9.svelte-1m7ivg9{opacity:0.5}button.svelte-1m7ivg9.svelte-1m7ivg9:active{background-color:var(--medium);border:1px solid var(--dark)}button.svelte-1m7ivg9 img.svelte-1m7ivg9{display:block;width:24px;height:24px;margin:8px}
+item.svelte-1vzot7h.svelte-1vzot7h{font-size:14px}item.svelte-1vzot7h em.svelte-1vzot7h{font-size:16px;font-weight:bold}
+row.svelte-1964zo3{display:block;margin:4px 8px;min-width:400px;border-bottom:2px solid white}
+panel.svelte-18f0voj{margin:16px;display:flex;flex-direction:column;align-items:center}main-title.svelte-18f0voj{font-size:150%;font-weight:bold;text-align:center;color:var(--punch);margin:16px auto 0 auto}subtitle.svelte-18f0voj{display:block;text-align:center;font-size:16px;color:var(--dark);margin-bottom:16px}
+panel.svelte-1hbrint{position:fixed;bottom:0;left:50%;transform:translate(-50%);display:flex;flex-direction:row;align-items:center;justify-content:center;padding:8px;background-color:var(--light)}
+spacer.svelte-1a8a5x1{width:80px}buttons.svelte-1a8a5x1{display:flex;justify-content:space-around;width:100%}div.svelte-1a8a5x1{width:100%;height:100%}
+
+/*# sourceMappingURL=bundle.css.map */
