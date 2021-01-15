@@ -1,6 +1,6 @@
-# Svelt-yjs Example App
+# Entropy Mouse Position Demo
 
-An example of using a distributed, offline-first undo/redo stack powered by Yjs in conjunction with Svelte components [svelt-yjs](https://github.com/relm-us/svelt-yjs)
+An example of using a distributed, offline-first stack powered by Yjs in conjunction with Svelte components [svelt-yjs](https://github.com/relm-us/svelt-yjs). This is intended to demonstrate the capabilities of Yjs to provide low latency presence data (in this example, mouse cursour position) in a multi-user environment.
 
 ## Get started
 
@@ -17,4 +17,4 @@ yarn install
 yarn dev
 ```
 
-Navigate to [localhost:5000](http://localhost:5000). You should see the Svelt-yjs example app running.
+Navigate to [localhost:5000](http://localhost:5000). You should see the app running.
